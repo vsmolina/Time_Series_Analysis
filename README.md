@@ -1,11 +1,11 @@
-#Time-Series Forecasting
+# Time-Series Forecasting
 
 - [x] Timeseries notebook
 - [x] Regrssion notebook
 - [x] Conclusion
 - [ ] World domination
 
-##Time Series Notebook
+## Time Series Notebook
 ---
 *Based on your time series analysis, would you buy the yen now?*
 
@@ -21,7 +21,7 @@ Based on the **GARCH** model, the risk is expected to increase
 I would, based on the parameters I set on my own personal strategy. I would feel more confortable after studying 
 a little more about the models.
 
-##Regression Analysis
+## Regression Analysis
 ---
 
 *Conclusion*
